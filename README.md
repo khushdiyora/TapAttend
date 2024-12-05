@@ -1,6 +1,6 @@
 # TapAttend
 
-![TapAttend Logo](output/TapAttend-Logo.png)
+![TapAttend Logo](https://github.com/khushdiyora/TapAttend/blob/main/Output/TapAttend%20-%20Logo.png)
 
 ## 📖 Project Overview
 
@@ -21,7 +21,7 @@ Below are some outputs of the application for better understanding:
 
 | Screenshot | Description |
 |------------|-------------|
-| ![Output 1](output/Screenshot_20241019_224040.png) | **Output 1**: Description of this output. |
+| ![Output 1](https://github.com/khushdiyora/TapAttend/blob/main/Output/Screenshot_20241019_224040.png) | **Output 1**: Description of this output. |
 | ![Output 2](output/Screenshot_20241019_224114.png) | **Output 2**: Description of this output. |
 | ![Output 3](output/Screenshot_20241019_224202.png) | **Output 3**: Description of this output. |
 | ![Output 4](output/Screenshot_20241019_224215.png) | **Output 4**: Description of this output. |
@@ -59,3 +59,17 @@ The following technologies were used in the development of **TapAttend**:
 1. Clone the repository:
    ```bash
    git clone https://github.com/khushdiyora/TapAttend.git
+
+2. Open the project in Android Studio.
+
+3. Build and run the app on an emulator or a physical device.
+
+
+## 🤝 Contributors
+
+Khush Diyora
+Het Gangani
+
+## 📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
