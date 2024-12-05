@@ -16,17 +16,6 @@
 
 ---
 
-## 📸 Screenshots
-Below are some outputs of the application for better understanding:
-
-| Screenshot | Description |
-|------------|-------------|
-| ![Output 1](https://github.com/khushdiyora/TapAttend/blob/main/Output/Screenshot_20241019_224040.png) 
-| ![Output 2](https://github.com/khushdiyora/TapAttend/blob/main/Output/Screenshot_20241019_224041.png) 
-| ![Output 3](https://github.com/khushdiyora/TapAttend/blob/main/Output/Screenshot_20241019_224042.png)
-
----
-
 ## 🔧 Tech Stack
 
 The following technologies were used in the development of **TapAttend**:
@@ -53,5 +42,14 @@ Khush Diyora
 Het Gangani
 
 ## 📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## If we find that this can be used for personal use, it must be illegal under the Copyright Law of India 2000 (Section 43 of the Information Technology Act, 2000). This project is not allowed to be changed in any way because it may contain copyright offenses. Instead, it is for Educational purposes.
+
+### Section 43 of the Information Technology Act, 2000 contains:
+
+## provides for compensation to the aggrieved party up to One Crore of Rupees from a person, who without the permission of the owner or the person who is in charge of computer, computer system or computer net-work secures, access to the system or down-loads data or down-loads ...
+
+![Khush diyora](https://github.com/user-attachments/assets/2cceda39-3a1a-44ff-aa96-556057017ee9)
 
