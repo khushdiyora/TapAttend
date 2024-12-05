@@ -21,27 +21,9 @@ Below are some outputs of the application for better understanding:
 
 | Screenshot | Description |
 |------------|-------------|
-| ![Output 1](https://github.com/khushdiyora/TapAttend/blob/main/Output/Screenshot_20241019_224040.png) | **Output 1**: Description of this output. |
-| ![Output 2](output/Screenshot_20241019_224114.png) | **Output 2**: Description of this output. |
-| ![Output 3](output/Screenshot_20241019_224202.png) | **Output 3**: Description of this output. |
-| ![Output 4](output/Screenshot_20241019_224215.png) | **Output 4**: Description of this output. |
-| ![Output 5](output/Screenshot_20241019_224239.png) | **Output 5**: Description of this output. |
-| ![Output 6](output/Screenshot_20241019_224329.png) | **Output 6**: Description of this output. |
-| ![Output 7](output/Screenshot_20241019_224338.png) | **Output 7**: Description of this output. |
-| ![Output 8](output/Screenshot_20241019_224402.png) | **Output 8**: Description of this output. |
-| ![Output 9](output/Screenshot_20241019_224413.png) | **Output 9**: Description of this output. |
-| ![Output 10](output/Screenshot_20241019_224431.png) | **Output 10**: Description of this output. |
-| ![Output 11](output/Screenshot_20241019_224449.png) | **Output 11**: Description of this output. |
-| ![Output 12](output/Screenshot_20241019_224500.png) | **Output 12**: Description of this output. |
-| ![Output 13](output/Screenshot_20241019_224518.png) | **Output 13**: Description of this output. |
-| ![Output 14](output/Screenshot_20241019_224550.png) | **Output 14**: Description of this output. |
-| ![Output 15](output/Screenshot_20241019_224612.png) | **Output 15**: Description of this output. |
-| ![Output 16](output/Screenshot_20241019_224629.png) | **Output 16**: Description of this output. |
-| ![Output 17](output/Screenshot_20241019_224803.png) | **Output 17**: Description of this output. |
-| ![Output 18](output/Screenshot_20241019_224822.png) | **Output 18**: Description of this output. |
-| ![Output 19](output/Screenshot_20241019_224834.png) | **Output 19**: Description of this output. |
-| ![Output 20](output/Screenshot_20241019_224852.png) | **Output 20**: Description of this output. |
-| ![Output 21](output/Screenshot_20241019_224900.png) | **Output 21**: Description of this output. |
+| ![Output 1](https://github.com/khushdiyora/TapAttend/blob/main/Output/Screenshot_20241019_224040.png) 
+| ![Output 2](https://github.com/khushdiyora/TapAttend/blob/main/Output/Screenshot_20241019_224041.png) 
+| ![Output 3](https://github.com/khushdiyora/TapAttend/blob/main/Output/Screenshot_20241019_224042.png)
 
 ---
 
